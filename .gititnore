@@ -1,0 +1,11 @@
+printer-*.cfg
+
+backup/
+certs/
+comms/
+database/
+gcodes/
+logs/
+misc/
+moonraker.asvc
+systemd/
