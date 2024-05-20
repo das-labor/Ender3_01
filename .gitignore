@@ -1,6 +1,7 @@
 printer-*.cfg
 *.conf.bkp
 
+config/KAMP
 backup/
 certs/
 comms/
